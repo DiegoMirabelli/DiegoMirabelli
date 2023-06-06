@@ -3,7 +3,7 @@
 
 ### Sobre mí
 Me gradué del curso intensivo de programación Full Stack en "Soy Henry", donde adquirí conocimientos sólidos en diversas tecnologías y herramientas.
-Mi enfoque principal está en el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, HTML, CSS(LESS, Bootstrap, tailwindCSS), React, Redux, Node.js, Express y bases de datos relacionales y no relacionales como PostgreSQL y MongoDB.
+Mi enfoque principal está en el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, HTML, CSS(LESS, Bootstrap, tailwindCSS), React, Redux, Node.js, Express, Sequelize, Mongoose y bases de datos relacionales y no relacionales como PostgreSQL y MongoDB.
 Actualmente me encuentro aprendiendo Typescript y Nextjs. Tengo planes para aprender mas adelanate Ruby y Python.
 
 ### Habilidades
